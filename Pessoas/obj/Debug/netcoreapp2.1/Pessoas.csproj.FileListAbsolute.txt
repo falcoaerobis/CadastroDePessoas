@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\bin\Debug\netcoreapp2.1\Pessoas.deps.json
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\bin\Debug\netcoreapp2.1\Pessoas.runtimeconfig.json
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\bin\Debug\netcoreapp2.1\Pessoas.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\bin\Debug\netcoreapp2.1\Pessoas.dll
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.RazorAssemblyInfo.cache
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.RazorAssemblyInfo.cs
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.AssemblyInfo.cs
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\bin\Debug\netcoreapp2.1\Pessoas.pdb
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.dll
+C:\Users\Bruno\Documents\NetBeansProjects\Angular\Pessoas\obj\Debug\netcoreapp2.1\Pessoas.pdb
