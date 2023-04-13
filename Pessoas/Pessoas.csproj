@@ -11,7 +11,7 @@
   <ItemGroup>
     <PackageReference Include="dapper" Version="1.50.5" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="oracle.manageddataaccess.core" Version="2.18.3" />
+    <PackageReference Include="oracle.manageddataaccess.core" Version="3.21.90" />
   </ItemGroup>
 
 </Project>
